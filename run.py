@@ -14,7 +14,7 @@ urllib3.disable_warnings()
 # 取得天氣資料
 def getWeatherData(data_id, district):
     dict_headers = {
-        'Authorization': 'CWB-55AE3EAD-1E8A-45FD-A33E-5185E8DC81BF',
+        'Authorization': 'your-authorization-key-from-cwb',
         'Content-type': 'application/json',
     }
     url = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/' + data_id + '?locationName=' + district + '&elementName=T&format=json&sort=time'
