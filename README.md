@@ -1,4 +1,4 @@
-# TaiwanWeatherChart
+# TaiwanWeatherChartGenerator
 抓取中央氣象局的開放資料（json），來輸出圖表。本例使用「臺北市未來1週天氣預報」來進行開發測試。
 
 ## 參閱文件
@@ -12,3 +12,4 @@
 ![高雄市左營區](https://github.com/telunyang/TaiwanWeatherChart/blob/master/images/高雄市左營區.png "高雄市左營區")
 
 ## Demo
+[https://www.youtube.com/watch?v=IQwhhLngMbA](https://www.youtube.com/watch?v=IQwhhLngMbA)
