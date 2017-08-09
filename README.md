@@ -5,6 +5,10 @@
 1. [交通部中央氣象局-開放資料平臺-資料使用說明](http://opendata.cwb.gov.tw/usages)
 2. downloads/CWB_Opendata_API_V1.2.pdf
 
+## 套件安裝
+$ pip install matplotlib
+（它會連同 NumPy 一起安裝）
+
 ## 輸出圖片範例
 ![臺北市中正區](https://github.com/telunyang/TaiwanWeatherChart/blob/master/images/臺北市中正區.png "臺北市中正區")
 ![臺北市內湖區](https://github.com/telunyang/TaiwanWeatherChart/blob/master/images/臺北市內湖區.png "臺北市內湖區")
