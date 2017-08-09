@@ -1,0 +1,169 @@
+{
+    "success": "true",
+    "result": {
+        "resource_id": "F-D0047-063",
+        "fields": [
+            {
+                "id": "contentDescription",
+                "type": "String"
+            },
+            {
+                "id": "datasetDescription",
+                "type": "String"
+            },
+            {
+                "id": "locationsName",
+                "type": "String"
+            },
+            {
+                "id": "dataid",
+                "type": "String"
+            },
+            {
+                "id": "locationName",
+                "type": "String"
+            },
+            {
+                "id": "geocode",
+                "type": "Double"
+            },
+            {
+                "id": "lat",
+                "type": "Double"
+            },
+            {
+                "id": "lon",
+                "type": "Double"
+            },
+            {
+                "id": "elementName",
+                "type": "String"
+            },
+            {
+                "id": "startTime",
+                "type": "Timestamp"
+            },
+            {
+                "id": "endTime",
+                "type": "Timestamp"
+            },
+            {
+                "id": "dataTime",
+                "type": "Timestamp"
+            },
+            {
+                "id": "elementValue",
+                "type": "String"
+            },
+            {
+                "id": "parameterName",
+                "type": "String"
+            },
+            {
+                "id": "parameterValue",
+                "type": "String"
+            }
+        ]
+    },
+    "records": {
+        "contentDescription": "臺灣各鄉鎮市區未來2天(逐3小時)及未來1週天氣預報",
+        "locations": [
+            {
+                "datasetDescription": "臺北市未來1週天氣預報",
+                "locationsName": "臺北市",
+                "dataid": "D0047-063",
+                "location": [
+                    {
+                        "locationName": "中正區",
+                        "geocode": "6300500",
+                        "lat": "25.034069",
+                        "lon": "121.510065",
+                        "weatherElement": [
+                            {
+                                "elementName": "T",
+                                "elementMeasure": "C",
+                                "time": [
+                                    {
+                                        "startTime": "2017-08-09 18:00:00",
+                                        "endTime": "2017-08-10 06:00:00",
+                                        "elementValue": "31"
+                                    },
+                                    {
+                                        "startTime": "2017-08-10 06:00:00",
+                                        "endTime": "2017-08-10 18:00:00",
+                                        "elementValue": "33"
+                                    },
+                                    {
+                                        "startTime": "2017-08-10 18:00:00",
+                                        "endTime": "2017-08-11 06:00:00",
+                                        "elementValue": "30"
+                                    },
+                                    {
+                                        "startTime": "2017-08-11 06:00:00",
+                                        "endTime": "2017-08-11 18:00:00",
+                                        "elementValue": "32"
+                                    },
+                                    {
+                                        "startTime": "2017-08-11 18:00:00",
+                                        "endTime": "2017-08-12 06:00:00",
+                                        "elementValue": "30"
+                                    },
+                                    {
+                                        "startTime": "2017-08-12 06:00:00",
+                                        "endTime": "2017-08-12 18:00:00",
+                                        "elementValue": "32"
+                                    },
+                                    {
+                                        "startTime": "2017-08-12 18:00:00",
+                                        "endTime": "2017-08-13 06:00:00",
+                                        "elementValue": "30"
+                                    },
+                                    {
+                                        "startTime": "2017-08-13 06:00:00",
+                                        "endTime": "2017-08-13 18:00:00",
+                                        "elementValue": "32"
+                                    },
+                                    {
+                                        "startTime": "2017-08-13 18:00:00",
+                                        "endTime": "2017-08-14 06:00:00",
+                                        "elementValue": "30"
+                                    },
+                                    {
+                                        "startTime": "2017-08-14 06:00:00",
+                                        "endTime": "2017-08-14 18:00:00",
+                                        "elementValue": "32"
+                                    },
+                                    {
+                                        "startTime": "2017-08-14 18:00:00",
+                                        "endTime": "2017-08-15 06:00:00",
+                                        "elementValue": "29"
+                                    },
+                                    {
+                                        "startTime": "2017-08-15 06:00:00",
+                                        "endTime": "2017-08-15 18:00:00",
+                                        "elementValue": "33"
+                                    },
+                                    {
+                                        "startTime": "2017-08-15 18:00:00",
+                                        "endTime": "2017-08-16 06:00:00",
+                                        "elementValue": "29"
+                                    },
+                                    {
+                                        "startTime": "2017-08-16 06:00:00",
+                                        "endTime": "2017-08-16 18:00:00",
+                                        "elementValue": "32"
+                                    },
+                                    {
+                                        "startTime": "2017-08-16 18:00:00",
+                                        "endTime": "2017-08-17 06:00:00",
+                                        "elementValue": "29"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
